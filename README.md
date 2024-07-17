@@ -1,1 +1,4 @@
 # Restaurant-Name-Generator-Using-Langchain-LLM-
+
+Developed an innovative Restaurant Name Generator using LangChain LLM, FAISS index, and word embeddings to create unique and contextually relevant restaurant names.Implemented word embeddings to capture semantic relationships between words, enhancing the quality and creativity of generated names.Utilized FAISS (Facebook AI Similarity Search) index to efficiently search and retrieve similar word embeddings, optimizing the generation process.
+Employed vector databases to store and manage embeddings, ensuring scalable and fast retrieval operations.Fine-tuned the LangChain model for improved name relevance and novelty, successfully generating [X] unique names, boosting client engagement.Deployed the solution with Streamlit, enabling an interactive and user-friendly interface, and collaborated with cross-functional teams to ensure smooth integration and maintenance.
